@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio González Gómez</h1>
 <h3 align="center">I’m interested in programming, web developing, anime&manga, fantasy and sci-fi! 🌱 I’m currently learning web development at Upgrade-Hub 💞️ I’m looking to collaborate on anything I can, I need to learn! 📫 You can reach me at sergiogonzalezgomez15@gmail.com</h3>
 
-<h3 align="left">Connect with me:</h3> <a>https://www.linkedin.com/in/sergio-gonz%C3%A1lez-g%C3%B3mez-076423b8/</a>
+![Github stats](https://github-readme-stats.vercel.app/api?username=SergioGonzalezGomez&show_icons=true&hide_border=true)
 <p align="left">
 </p>
 
