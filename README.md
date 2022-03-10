@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio González Gómez</h1>
-<h3 align="center">I’m interested in programming, web developing, anime&manga, fantasy and sci-fi! 🌱 I’m currently learning web development at Upgrade-Hub 💞️ I’m looking to collaborate on anything I can, I need to learn! 📫 You can reach me at sergiogonzalezgomez15@gmail.com</h3>
+<h3 align="center">I’m interested in programming, web developing, anime&manga, fantasy and sci-fi! 🌱 I learnt web development at Upgrade-Hub 💞️ I’m looking to collaborate on anything I can, I need to learn! 📫 You can reach me at sergiogonzalezgomez15@gmail.com</h3>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SergioGonzalezGomez&show_icons=true&hide_border=true)
 <p align="left">
